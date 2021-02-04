@@ -6,3 +6,9 @@ body {
   text-align: left;
   font-size: 15px;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
